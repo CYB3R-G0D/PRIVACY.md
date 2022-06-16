@@ -6,6 +6,7 @@ These apps (listed below) are developed by one main developer [CYB3R-G0D](https:
 [<img src="https://raw.githubusercontent.com/CYB3R-G0D/Calculator-app/main/fastlane/metadata/android/en-US/images/icon.png" alt="drawing" width="50"/>](http://github.com/CYB3R-G0D/Calculator-app)
 [<img src="https://raw.githubusercontent.com/CYB3R-G0D/Url-checker/main/fastlane/metadata/android/en-US/images/icon.png" alt="drawing" width="50"/>](https://github.com/CYB3R-G0D/Url-checker)
 [<img src="https://raw.githubusercontent.com/CYB3R-G0D/Canvass-app/main/fastlane/metadata/android/en-US/images/icon.png" alt="drawing" width="50"/>](https://github.com/CYB3R-G0D/Canvass-app)
+[<img src="https://raw.githubusercontent.com/CYB3R-G0D/File-Manager/main/fastlane/metadata/android/en-US/images/icon.png" alt="drawing" width="50"/>](https://github.com/CYB3R-G0D/File-Manager)
 
 ### Information being collected
 
@@ -20,4 +21,4 @@ The Policy may change from time to time, if the Policy changes, the modification
 
 Please contact [cyb3r-g0d@tuta.io](mailto:cyb3r-g0d@tota.io) if you have any questions about this Privacy Policy.
 
-__Last updated:__ May 27, 2022
+__Last updated:__ June 16, 2022
